@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Pierrick, I am a robot teacher!
+
+- 🔭 I’m currently working on Hybrid Planning and Learning Techniques for agents to accomodate open-world scenarios.
+- 👯 I’m always eager to collaborate with peers on similar research topics.
+- 📫 How to reach me: via email (pierrick.lorang@gmail.com)
+- 😄 Pronouns: he/him
+
 <!--
 **lorangpi/lorangpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
