@@ -1,4 +1,4 @@
-Hello, my name is Pierrick, and I'm an aspiring teacher of robots! My goal is to guide robots in learning how to act in a constantly changing world.
+Hi, I'm Pierrick, and I'm aspiring to teach robots how to act in a constantly changing world.
 
 I’m currently working on Hybrid Planning and Learning Techniques for agents to accomodate open-world scenarios. I’m always eager to collaborate with peers on similar research topics. Reach me via email (pierrick.lorang@gmail.com / pierrick.lorang@tufts.edu)
 
