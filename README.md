@@ -1,6 +1,6 @@
-Hi, I'm Pierrick, and I'm aspiring to teach robots how to act in a constantly changing world.
+Hi, I'm Pierrick, I aspire to teach robots on how to navigate and respond effectively in a dynamically changing environment.
 
-I’m currently working on Hybrid Planning and Learning Techniques for agents to accomodate open-world scenarios. I’m always eager to collaborate with peers on similar research topics. Reach me via email (pierrick.lorang@gmail.com / pierrick.lorang@tufts.edu)
+I’m currently working on Neurosymbolic Techniques for agents to accomodate open-world scenarios. I’m always eager to collaborate with peers on similar research topics. Reach me via email (pierrick.lorang@gmail.com / pierrick.lorang@tufts.edu)
 
 <!--
 **lorangpi/lorangpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
